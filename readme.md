@@ -2,7 +2,7 @@ Created by Christopher Hollandsworth
 
 Uses xfoil to create lists of airfoils that comply with the given design constraints
 Helper functions are added as well
-
+Would love any constructive criticism
 
 
 Special thanks to Prokop Hapala for help accessing Xfoil in python
